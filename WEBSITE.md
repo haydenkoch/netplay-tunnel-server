@@ -4,9 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-RetroArch-red)](https://www.retroarch.com)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <h3>netplay.haydenkoch.com</h3>
-</div>
+
 
 ## 🎮 Introduction
 
@@ -109,14 +107,4 @@ This relay server works with:
 - Default port: **55435**
 - Protocol: TCP
 
-## 📞 Support
-
-Need help? Have questions?
-- Email: support@haydenkoch.com
-- Visit [haydenkoch.com](https://haydenkoch.com) for more information
-
 ---
-
-<div align="center">
-  <p>© 2025 Hayden Koch | Last updated: March 9, 2025</p>
-</div>
