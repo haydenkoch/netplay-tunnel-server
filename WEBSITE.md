@@ -4,22 +4,15 @@
 [![Platform](https://img.shields.io/badge/Platform-RetroArch-red)](https://www.retroarch.com)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/libretro/RetroArch/master/media/retroarch.png" alt="RetroArch Logo" width="400"/>
-  <br/>
   <h3>netplay.haydenkoch.com</h3>
 </div>
 
-## 📋 Introduction
+## 🎮 Introduction
 
 Welcome to the official guide for connecting to the **netplay.haydenkoch.com** relay server. This server allows RetroArch users to play multiplayer retro games over the internet without complicated network configuration or port forwarding. By using this relay server, players can easily find and connect to each other's game sessions with minimal setup.
 
 This guide was originally created for the Anbernic R36S handheld running ArkOS, but the instructions are applicable to any device running a version of RetroArch that supports netplay functionality. Whether you're using a handheld emulation device, a PC, or another platform, these steps will help you get connected and playing with friends.
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Street_Fighter_II_%28arcade%29_multiplayer.jpg" alt="Retro Gaming Multiplayer" width="400"/>
-</div>
 
 ## ⚙️ Initial Setup
 
@@ -32,10 +25,6 @@ This guide was originally created for the Anbernic R36S handheld running ArkOS, 
 7. Select **"Save Current Configuration"**
 
 > **Important**: You must be connected to WiFi for all netplay functionality.
-
-<div align="center">
-  <img src="https://www.retroarch.com/images/netplay/retroarch-netplay3.png" alt="RetroArch Network Settings" width="400"/>
-</div>
 
 ## 🎮 Hosting a Game
 
@@ -52,10 +41,6 @@ This guide was originally created for the Anbernic R36S handheld running ArkOS, 
 6. Watch the logs in the bottom right corner for connection status
    * Note: "UPnP failure" messages are normal and can be ignored
 
-<div align="center">
-  <img src="https://www.retroarch.com/images/netplay/retroarch-netplay1.png" alt="RetroArch Hosting" width="400"/>
-</div>
-
 ## 🔌 Joining a Game
 
 1. Launch RetroArch with the same ROM and core as the host
@@ -64,10 +49,6 @@ This guide was originally created for the Anbernic R36S handheld running ArkOS, 
 4. Select **Netplay → "Refresh Netplay Host List"**
 5. Find the host you want to connect to in the list
 6. Select the host to connect
-
-<div align="center">
-  <img src="https://www.retroarch.com/images/netplay/retroarch-netplay2.png" alt="RetroArch Joining" width="400"/>
-</div>
 
 ## 👤 Setting Your Username
 
@@ -116,11 +97,11 @@ This relay server works with:
 
 | Platform | Compatibility |
 |----------|---------------|
-| Anbernic R36S (ArkOS) | ✅ Primary Test Platform |
-| Windows/Mac/Linux | ✅ Fully Compatible |
-| Android | ✅ Fully Compatible |
-| iOS | ✅ Compatible with TestFlight version |
-| Other Handhelds | ✅ Compatible if running RetroArch |
+| Anbernic R36S (ArkOS) | ✓ Primary Test Platform |
+| Windows/Mac/Linux | ✓ Fully Compatible |
+| Android | ✓ Fully Compatible |
+| iOS | ✓ Compatible with TestFlight version |
+| Other Handhelds | ✓ Compatible if running RetroArch |
 
 ## 🌐 Server Information
 
@@ -128,14 +109,9 @@ This relay server works with:
 - Default port: **55435**
 - Protocol: TCP
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nostalgia_gaming_banner.jpg" alt="Retro Gaming Banner" width="500"/>
-</div>
-
 ## 📞 Support
 
 Need help? Have questions?
-- Join our [Discord server](https://discord.gg)
 - Email: support@haydenkoch.com
 - Visit [haydenkoch.com](https://haydenkoch.com) for more information
 
@@ -143,8 +119,4 @@ Need help? Have questions?
 
 <div align="center">
   <p>© 2025 Hayden Koch | Last updated: March 9, 2025</p>
-  <p>
-    <a href="https://twitter.com/haydenkoch"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter" alt="Twitter"/></a>
-    <a href="https://github.com/haydenkoch"><img src="https://img.shields.io/badge/GitHub-Star-181717?style=flat&logo=github" alt="GitHub"/></a>
-  </p>
 </div>
