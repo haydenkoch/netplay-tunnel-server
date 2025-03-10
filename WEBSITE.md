@@ -8,9 +8,9 @@
 
 ## 🎮 Introduction
 
-Welcome to the official guide for connecting to the **netplay.haydenkoch.com** relay server. This server allows RetroArch users to play multiplayer retro games over the internet without complicated network configuration or port forwarding. By using this relay server, players can easily find and connect to each other's game sessions with minimal setup.
+Welcome to the guide for connecting to the **netplay.haydenkoch.com** relay server. This server allows RetroArch users to play multiplayer retro games over the internet without complicated network configuration or port forwarding. By using this relay server, players can easily find and connect to each other's game sessions with minimal setup.
 
-This guide was originally created for the Anbernic R36S handheld running ArkOS, but the instructions are applicable to any device running a version of RetroArch that supports netplay functionality. Whether you're using a handheld emulation device, a PC, or another platform, these steps will help you get connected and playing with friends.
+This guide was originally created for the R36S handheld running ArkOS, but the instructions are applicable to any device running a version of RetroArch that supports netplay functionality. Whether you're using a handheld emulation device, a PC, or another platform, these steps will help you get connected and playing with friends.
 
 ## ⚙️ Initial Setup
 
@@ -95,7 +95,7 @@ This relay server works with:
 
 | Platform | Compatibility |
 |----------|---------------|
-| Anbernic R36S (ArkOS) | ✓ Primary Test Platform |
+| R36S (ArkOS) | ✓ Primary Test Platform |
 | Windows/Mac/Linux | ✓ Fully Compatible |
 | Android | ✓ Fully Compatible |
 | iOS | ✓ Compatible with TestFlight version |
